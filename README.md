@@ -1,5 +1,12 @@
-# 💫 Hi 👋, I'm Suyash Nayak
-**A passionate Computer Science Student || Data Analytics || Frontend Developer
+<div align="center">
+  <h1>Hi there, I'm Suyash Nayak! 👋</h1>
+  
+  <a href="https://github.com/SuyashNayak">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=BTech+Data+Science+%26+CSE+Student;Data+Analytics+Enthusiast;Java+%26+Web+Developer" alt="Typing Animation" />
+  </a>
+</div>
+
+<br/>
 
 Email Me 👉 ✉️ **suyashnayak105@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
