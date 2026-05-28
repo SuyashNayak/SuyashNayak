@@ -1,3 +1,11 @@
+# 💫 Hi 👋, I'm Suyash Nayak
+**A passionate Computer Science Student || Data Analytics || Frontend Developer
+
+Email Me 👉 ✉️ **suyashnayak105@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Data Analytics
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suy4s.h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-nayak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suyashnayak105@gmail.com) 
 
@@ -16,9 +24,9 @@
 ![](https://streak-stats.demolab.com/?user=SuyashNayak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuyashNayak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuyashNayak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
